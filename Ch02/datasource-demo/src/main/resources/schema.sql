@@ -1,0 +1,1 @@
+CREATE TABLE testdb(name varchar(20) , gender varchar (10))
